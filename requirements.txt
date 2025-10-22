@@ -1,0 +1,14 @@
+# Dependencias principales
+pandas
+numpy
+scikit-learn
+matplotlib
+
+# MLflow para tracking y registro del modelo
+mlflow
+
+# Librerías adicionales útiles
+pyyaml         # Para leer config.yaml
+joblib         # Para guardar/cargar modelos (opcional)
+pytest         # Para pruebas básicas
+black          # Formateador de código (para buena práctica en CI)

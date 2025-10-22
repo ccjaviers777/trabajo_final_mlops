@@ -1,0 +1,10 @@
+artifact_location: file:///E:/EAN/ESPECIALIZACION_MACHINE_LEARNING/SEMESTRE 3/MLOps/Codigos_trabajos/TRABAJO_FINAL/trabajo_final_mlops/mlruns/342931918619637259/models/m-73274572eb214729a62d9e22baf42fa2/artifacts
+creation_timestamp: 1761092426665
+experiment_id: '342931918619637259'
+last_updated_timestamp: 1761092435219
+model_id: m-73274572eb214729a62d9e22baf42fa2
+model_type: null
+name: model
+source_run_id: 4c20c09d57fd438f87628278a74a3abe
+status: 2
+status_message: null
